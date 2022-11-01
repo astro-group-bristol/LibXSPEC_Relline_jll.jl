@@ -17,6 +17,11 @@ The tarballs for `LibXSPEC_Relline_jll.jl` have been built from these sources:
 
 `LibXSPEC_Relline_jll.jl` is available for the following platforms:
 
+* `macOS aarch64 {libgfortran_version=5.0.0}` (`aarch64-apple-darwin-libgfortran5`)
+* `macOS x86_64 {libgfortran_version=4.0.0}` (`x86_64-apple-darwin-libgfortran4`)
+* `macOS x86_64 {libgfortran_version=5.0.0}` (`x86_64-apple-darwin-libgfortran5`)
+* `Linux x86_64 {cxxstring_abi=cxx03, libc=glibc, libgfortran_version=4.0.0}` (`x86_64-linux-gnu-libgfortran4-cxx03`)
+* `Linux x86_64 {cxxstring_abi=cxx11, libc=glibc, libgfortran_version=4.0.0}` (`x86_64-linux-gnu-libgfortran4-cxx11`)
 * `Linux x86_64 {cxxstring_abi=cxx03, libc=glibc, libgfortran_version=5.0.0}` (`x86_64-linux-gnu-libgfortran5-cxx03`)
 * `Linux x86_64 {cxxstring_abi=cxx11, libc=glibc, libgfortran_version=5.0.0}` (`x86_64-linux-gnu-libgfortran5-cxx11`)
 

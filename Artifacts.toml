@@ -1,0 +1,71 @@
+[[LibXSPEC_Relline]]
+arch = "aarch64"
+git-tree-sha1 = "24c3778230d4b34feb9c803aba33da7410bcdede"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[LibXSPEC_Relline.download]]
+    sha256 = "e77fc7c2f33d1e149631eaad847fec9546d250dae71235c24be147174ebeb405"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_Relline_jll.jll/releases/download/LibXSPEC_Relline-v0.1.1+0/LibXSPEC_Relline.v0.1.1.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[LibXSPEC_Relline]]
+arch = "x86_64"
+git-tree-sha1 = "c34f9cc2002740e0377654f9aa85425c4645a5de"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[LibXSPEC_Relline.download]]
+    sha256 = "6be4debd8c6b0c0a045ceb5f6cc2196aad08ddacf2ec577b81adacf85fd76fa2"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_Relline_jll.jll/releases/download/LibXSPEC_Relline-v0.1.1+0/LibXSPEC_Relline.v0.1.1.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[LibXSPEC_Relline]]
+arch = "x86_64"
+git-tree-sha1 = "65494ffd1c352fed00232d557f79f93d0eea3771"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[LibXSPEC_Relline.download]]
+    sha256 = "693f537772c2bfef9ffb6059136fa31362a727d0ebbe1cf3a83cddb4f873d78f"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_Relline_jll.jll/releases/download/LibXSPEC_Relline-v0.1.1+0/LibXSPEC_Relline.v0.1.1.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[LibXSPEC_Relline]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "69422e6aecebddd4c87c12f8b840d51f551e40bb"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LibXSPEC_Relline.download]]
+    sha256 = "20d416b59a6a694c5565fa1c23c4253efb02fdd8d26b47243c53abb2e75ac487"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_Relline_jll.jll/releases/download/LibXSPEC_Relline-v0.1.1+0/LibXSPEC_Relline.v0.1.1.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[LibXSPEC_Relline]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "69422e6aecebddd4c87c12f8b840d51f551e40bb"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LibXSPEC_Relline.download]]
+    sha256 = "20d416b59a6a694c5565fa1c23c4253efb02fdd8d26b47243c53abb2e75ac487"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_Relline_jll.jll/releases/download/LibXSPEC_Relline-v0.1.1+0/LibXSPEC_Relline.v0.1.1.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[LibXSPEC_Relline]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "deb597fd2c2584a915f664d4648ca20c9f7a46e6"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LibXSPEC_Relline.download]]
+    sha256 = "ade064a48d9437c40c1232570332629861e017fea2562244013163048750e8cd"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_Relline_jll.jll/releases/download/LibXSPEC_Relline-v0.1.1+0/LibXSPEC_Relline.v0.1.1.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[LibXSPEC_Relline]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "deb597fd2c2584a915f664d4648ca20c9f7a46e6"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LibXSPEC_Relline.download]]
+    sha256 = "ade064a48d9437c40c1232570332629861e017fea2562244013163048750e8cd"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_Relline_jll.jll/releases/download/LibXSPEC_Relline-v0.1.1+0/LibXSPEC_Relline.v0.1.1.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
